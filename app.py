@@ -8,6 +8,7 @@ from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 from src.exception import CustomException
 
 
+
 application = Flask(__name__)
 app = application
 
